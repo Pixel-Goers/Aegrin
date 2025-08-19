@@ -5,7 +5,7 @@ Made with Unity 6 LTS
 
 ---
 
-## Table of Contents
+## Table of Contents 
 - [Overview](#overview)
   - [Scene Files](#scene-files)
 - [How To's](#how-tos)
